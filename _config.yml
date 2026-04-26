@@ -1,0 +1,15 @@
+title: "American Sports Insights"
+description: "Expert analysis on NFL, NBA, and Fantasy Sports."
+baseurl: "" # Biarkan kosong jika menggunakan custom domain atau .github.io
+url: "https://username-anda.github.io" # Ganti dengan username GitHub Anda
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Pengaturan Author
+author:
+  name: "Saka"
+  twitter: "yourusername"
